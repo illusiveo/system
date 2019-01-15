@@ -1,0 +1,8 @@
+{
+  "botPREFIX": "S.",
+  "botTOKEN": "TOKEN",
+  "weatherAPI": "Weather API here https://openweathermap.org",
+  "ownerID": "123456789123456",
+  "logsChannelID": "Text channel's id for logs",
+  "statusTYPE": "WATCHING"
+}
